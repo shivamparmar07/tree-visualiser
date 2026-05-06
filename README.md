@@ -4,6 +4,9 @@ An interactive, client-side tree structure visualizer built with **React** and *
 
 ![React](https://img.shields.io/badge/React-19-blue) ![React Flow](https://img.shields.io/badge/React_Flow-12-green) ![Vite](https://img.shields.io/badge/Vite-6-purple)
 
+<img width="1868" height="935" alt="image" src="https://github.com/user-attachments/assets/a3390a1d-1829-4e1f-9cd7-8c82f5685693" />
+
+
 ---
 
 ## ✨ Features
