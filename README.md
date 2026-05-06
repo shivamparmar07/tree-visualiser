@@ -40,7 +40,7 @@ An interactive, client-side tree structure visualizer built with **React** and *
 ```bash
 # Clone the repository
 git clone [<repository-url>](https://github.com/shivamparmar07/tree-visualiser/tree/main)
-cd Infollion
+cd tree-visualizer
 
 # Install dependencies
 npm install
@@ -63,7 +63,7 @@ npm run preview
 ## 📁 Project Structure
 
 ```
-Infollion/
+tree-visualizer/
 ├── public/
 │   └── favicon.svg
 ├── src/
